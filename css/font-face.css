@@ -1,0 +1,11 @@
+@font-face
+{
+font-family: 'hneuelt';
+src: url('fonts/helveticaneueltstd-cn.eot');
+src: url('fonts/helveticaneueltstd-cn.eot?iefix') format('eot'),
+     url('fonts/helveticaneueltstd-cn.woff') format('woff'),
+     url('fonts/helveticaneueltstd-cn.ttf') format('truetype'),
+     url('fonts/helveticaneueltstd-cn.svg#helvetica') format('svg');
+font-weight: normal;
+font-style: normal;
+}

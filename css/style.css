@@ -53,3 +53,74 @@ table {
 .ember-application {
     margin: 20px;
 }
+
+@font-face
+{
+font-family: 'hneuelt';
+src: url('../fonts/helveticaneueltstd-cn.eot');
+src: url('../fonts/helveticaneueltstd-cn.eot?iefix') format('eot'),
+     url('../fonts/helveticaneueltstd-cn.woff') format('woff'),
+     url('../fonts/helveticaneueltstd-cn.ttf') format('truetype'),
+     url('../fonts/helveticaneueltstd-cn.svg#helvetica') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face
+{
+font-family: 'hneueltcno';
+src: url('../fonts/helveticaneueltstd-cno.eot');
+src: url('../fonts/helveticaneueltstd-cno.eot?iefix') format('eot'),
+     url('../fonts/helveticaneueltstd-cno.woff') format('woff'),
+     url('../fonts/helveticaneueltstd-cno.ttf') format('truetype'),
+     url('../fonts/helveticaneueltstd-cno.svg#helvetica') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face
+{
+font-family: 'hneueltcn';
+src: url('../fonts/helveticaneueltstd-ltcn.eot');
+src: url('../fonts/helveticaneueltstd-ltcn.eot?iefix') format('eot'),
+     url('../fonts/helveticaneueltstd-ltcn.woff') format('woff'),
+     url('../fonts/helveticaneueltstd-ltcn.ttf') format('truetype'),
+     url('../fonts/helveticaneueltstd-ltcn.svg#helvetica') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face
+{
+font-family: 'hneueltcnolt';
+src: url('../fonts/helveticaneueltstd-ltcno.eot');
+src: url('../fonts/helveticaneueltstd-ltcno.eot?iefix') format('eot'),
+     url('../fonts/helveticaneueltstd-ltcno.woff') format('woff'),
+     url('../fonts/helveticaneueltstd-ltcno.ttf') format('truetype'),
+     url('../fonts/helveticaneueltstd-ltcno.svg#helvetica') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+@font-face
+{
+font-family: 'hneueltmd';
+src: url('../fonts/helveticaneueltstd-mdcn.eot');
+src: url('../fonts/helveticaneueltstd-mdcn.eot?iefix') format('eot'),
+     url('../fonts/helveticaneueltstd-mdcn.woff') format('woff'),
+     url('../fonts/helveticaneueltstd-mdcn.ttf') format('truetype'),
+     url('../fonts/helveticaneueltstd-mdcn.svg#helvetica') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face
+{
+font-family: 'hneueltmdo';
+src: url('../fonts/helveticaneueltstd-mdcno.eot');
+src: url('../fonts/helveticaneueltstd-mdcno.eot?iefix') format('eot'),
+     url('../fonts/helveticaneueltstd-mdcno.woff') format('woff'),
+     url('../fonts/helveticaneueltstd-mdcno.ttf') format('truetype'),
+     url('../fonts/helveticaneueltstd-mdcno.svg#helvetica') format('svg');
+font-weight: normal;
+font-style: normal;
+}
