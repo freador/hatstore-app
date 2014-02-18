@@ -124,3 +124,21 @@ src: url('../fonts/helveticaneueltstd-mdcno.eot?iefix') format('eot'),
 font-weight: normal;
 font-style: normal;
 }
+
+
+.general{
+	width: 958px;
+}
+
+.app{
+	border: 4px solid #f6d144;
+	height: 520px;
+	background: url('../img/bg.jpg');
+	position: relative;
+	z-index: 1;
+}
+
+.piriguete{}
+.piriguete img{width: 241px;
+margin-top: 4px;
+margin-left: -39px;}
