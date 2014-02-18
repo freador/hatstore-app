@@ -34,3 +34,6 @@ Contact
 ====
 
 www.emberjs.com
+=======
+hatstore-app
+============
