@@ -138,7 +138,78 @@ font-style: normal;
 	z-index: 1;
 }
 
-.piriguete{}
-.piriguete img{width: 241px;
+.piriguete{position: relative;
+z-index: 3;}
+.piriguete img{width: 299px;
 margin-top: 4px;
-margin-left: -39px;}
+margin-left: -39px;
+float: left;
+display: block;}
+
+.conteudo{float: left;
+display: block;
+margin-left: -86px;}
+
+.conteudo h1{font-family: 'hneueltmd';
+color: #f7d553;
+font-size: 42px;
+margin-top: 9px;
+margin-left: -14px;}
+
+.espelho{position: relative;
+z-index: 2;
+margin-top: 3px;
+margin-left: -23px}
+
+.espelho img{}
+
+.footer{font-family: 'hneueltmd';
+color: #969696;
+font-size: 12px;
+width: 423px;
+margin-top: 11px;
+margin-left: 1px;}
+
+.botoes{float: left;
+display: block;
+margin-left: 44px;}
+
+.botoes h3{font-family: 'hneueltmd';
+color: #f7d553;
+font-size: 22px;
+margin-top: 22px;
+margin-left: 2px;}
+
+.botoes .btn-upload-pc{margin-top: 11px;
+margin-left: auto;}
+
+.botoes .btn-upload-pc div span{font-family: hneuelt;color:white;}
+.botoes .btn-upload-pc div {margin-left: 10px;font-size: 12px;}
+.botoes .btn-upload-pc div .yellow {color:#f7d553;}
+.botoes .btn-upload-pc .file {display: none;}
+.botoes .ou {color: #f7d553;
+font-family: hneuelt;
+font-size: 17px!important;
+font-weight: bold;
+text-align: center;
+margin-top: 7px;
+margin-bottom: 7px;}
+
+.botoes img{cursor: pointer;}
+
+.ajuste .espelho img{width: 405px;
+margin-top: 15px;
+}
+.ajuste .espelho {
+position: relative;
+z-index: 2;
+margin-top: 3px;
+margin-left: -16px;
+position: relative;
+z-index: 6;
+}
+
+.img-verify{z-index: 8;
+margin-top: -308px;
+position: relative;
+margin-left: 105px;}
